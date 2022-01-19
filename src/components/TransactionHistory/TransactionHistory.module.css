@@ -1,0 +1,32 @@
+.transaction_history {
+    width: 900px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    border-collapse: collapse;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.title {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 17px;
+    font-family: sans-serif;
+    color: white;
+    border-collapse: collapse;
+    border: 2px solid gray;
+    padding: 20px 40px;
+}
+
+.text {
+    border-collapse: collapse;
+    border: 2px solid gray;
+    padding: 20px 40px;
+}
+
+.wrapper_title {
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 10px;
+    background-color: rgb(46, 120, 150);
+}
