@@ -27,7 +27,7 @@ Statistics.propTypes = {
 };
 
 Statistics.defaultProps = {
-  title: 'stats'
+  title: ''
 };
 
 export default Statistics;
